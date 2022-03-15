@@ -9,6 +9,5 @@ int main()
 {
 	Processor Object;
 	Object.start();
-	_getch();
-	
+	_getch();	
 }
