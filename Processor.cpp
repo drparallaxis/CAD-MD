@@ -3,7 +3,7 @@ Processor::Processor()
 {
 	number_of_kernels = 0;
 	support_left = false, support_right = false;
-	E_parameter = NULL;
+	E_parameter = NULL; 
 	A_parameter = NULL;
 	L_parameter = NULL;
 	q_parameter = NULL;
