@@ -8,6 +8,6 @@ using namespace std;
 int main()
 {
 	Processor Object;
-	Object.start();
+	Object.start(); 
 	_getch();	
 }
